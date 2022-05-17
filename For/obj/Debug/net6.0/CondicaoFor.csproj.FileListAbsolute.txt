@@ -1,0 +1,15 @@
+C:\Users\cristhian\Desktop\LogicaCSharp\For\bin\Debug\net6.0\CondicaoFor.exe
+C:\Users\cristhian\Desktop\LogicaCSharp\For\bin\Debug\net6.0\CondicaoFor.deps.json
+C:\Users\cristhian\Desktop\LogicaCSharp\For\bin\Debug\net6.0\CondicaoFor.runtimeconfig.json
+C:\Users\cristhian\Desktop\LogicaCSharp\For\bin\Debug\net6.0\CondicaoFor.dll
+C:\Users\cristhian\Desktop\LogicaCSharp\For\bin\Debug\net6.0\CondicaoFor.pdb
+C:\Users\cristhian\Desktop\LogicaCSharp\For\obj\Debug\net6.0\CondicaoFor.csproj.AssemblyReference.cache
+C:\Users\cristhian\Desktop\LogicaCSharp\For\obj\Debug\net6.0\CondicaoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cristhian\Desktop\LogicaCSharp\For\obj\Debug\net6.0\CondicaoFor.AssemblyInfoInputs.cache
+C:\Users\cristhian\Desktop\LogicaCSharp\For\obj\Debug\net6.0\CondicaoFor.AssemblyInfo.cs
+C:\Users\cristhian\Desktop\LogicaCSharp\For\obj\Debug\net6.0\CondicaoFor.csproj.CoreCompileInputs.cache
+C:\Users\cristhian\Desktop\LogicaCSharp\For\obj\Debug\net6.0\CondicaoFor.dll
+C:\Users\cristhian\Desktop\LogicaCSharp\For\obj\Debug\net6.0\refint\CondicaoFor.dll
+C:\Users\cristhian\Desktop\LogicaCSharp\For\obj\Debug\net6.0\CondicaoFor.pdb
+C:\Users\cristhian\Desktop\LogicaCSharp\For\obj\Debug\net6.0\CondicaoFor.genruntimeconfig.cache
+C:\Users\cristhian\Desktop\LogicaCSharp\For\obj\Debug\net6.0\ref\CondicaoFor.dll

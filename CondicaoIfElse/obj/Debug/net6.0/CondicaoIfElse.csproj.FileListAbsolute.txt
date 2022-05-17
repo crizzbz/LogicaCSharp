@@ -1,0 +1,15 @@
+C:\Users\cristhian\Desktop\LogicaCSharp\CondicaoIfElse\bin\Debug\net6.0\CondicaoIfElse.exe
+C:\Users\cristhian\Desktop\LogicaCSharp\CondicaoIfElse\bin\Debug\net6.0\CondicaoIfElse.deps.json
+C:\Users\cristhian\Desktop\LogicaCSharp\CondicaoIfElse\bin\Debug\net6.0\CondicaoIfElse.runtimeconfig.json
+C:\Users\cristhian\Desktop\LogicaCSharp\CondicaoIfElse\bin\Debug\net6.0\CondicaoIfElse.dll
+C:\Users\cristhian\Desktop\LogicaCSharp\CondicaoIfElse\bin\Debug\net6.0\CondicaoIfElse.pdb
+C:\Users\cristhian\Desktop\LogicaCSharp\CondicaoIfElse\obj\Debug\net6.0\CondicaoIfElse.csproj.AssemblyReference.cache
+C:\Users\cristhian\Desktop\LogicaCSharp\CondicaoIfElse\obj\Debug\net6.0\CondicaoIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cristhian\Desktop\LogicaCSharp\CondicaoIfElse\obj\Debug\net6.0\CondicaoIfElse.AssemblyInfoInputs.cache
+C:\Users\cristhian\Desktop\LogicaCSharp\CondicaoIfElse\obj\Debug\net6.0\CondicaoIfElse.AssemblyInfo.cs
+C:\Users\cristhian\Desktop\LogicaCSharp\CondicaoIfElse\obj\Debug\net6.0\CondicaoIfElse.csproj.CoreCompileInputs.cache
+C:\Users\cristhian\Desktop\LogicaCSharp\CondicaoIfElse\obj\Debug\net6.0\CondicaoIfElse.dll
+C:\Users\cristhian\Desktop\LogicaCSharp\CondicaoIfElse\obj\Debug\net6.0\refint\CondicaoIfElse.dll
+C:\Users\cristhian\Desktop\LogicaCSharp\CondicaoIfElse\obj\Debug\net6.0\CondicaoIfElse.pdb
+C:\Users\cristhian\Desktop\LogicaCSharp\CondicaoIfElse\obj\Debug\net6.0\CondicaoIfElse.genruntimeconfig.cache
+C:\Users\cristhian\Desktop\LogicaCSharp\CondicaoIfElse\obj\Debug\net6.0\ref\CondicaoIfElse.dll

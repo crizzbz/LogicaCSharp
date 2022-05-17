@@ -1,0 +1,15 @@
+C:\Users\cristhian\Desktop\LogicaCSharp\ClasseMath\bin\Debug\net6.0\ClasseMath.exe
+C:\Users\cristhian\Desktop\LogicaCSharp\ClasseMath\bin\Debug\net6.0\ClasseMath.deps.json
+C:\Users\cristhian\Desktop\LogicaCSharp\ClasseMath\bin\Debug\net6.0\ClasseMath.runtimeconfig.json
+C:\Users\cristhian\Desktop\LogicaCSharp\ClasseMath\bin\Debug\net6.0\ClasseMath.dll
+C:\Users\cristhian\Desktop\LogicaCSharp\ClasseMath\bin\Debug\net6.0\ClasseMath.pdb
+C:\Users\cristhian\Desktop\LogicaCSharp\ClasseMath\obj\Debug\net6.0\ClasseMath.csproj.AssemblyReference.cache
+C:\Users\cristhian\Desktop\LogicaCSharp\ClasseMath\obj\Debug\net6.0\ClasseMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cristhian\Desktop\LogicaCSharp\ClasseMath\obj\Debug\net6.0\ClasseMath.AssemblyInfoInputs.cache
+C:\Users\cristhian\Desktop\LogicaCSharp\ClasseMath\obj\Debug\net6.0\ClasseMath.AssemblyInfo.cs
+C:\Users\cristhian\Desktop\LogicaCSharp\ClasseMath\obj\Debug\net6.0\ClasseMath.csproj.CoreCompileInputs.cache
+C:\Users\cristhian\Desktop\LogicaCSharp\ClasseMath\obj\Debug\net6.0\ClasseMath.dll
+C:\Users\cristhian\Desktop\LogicaCSharp\ClasseMath\obj\Debug\net6.0\refint\ClasseMath.dll
+C:\Users\cristhian\Desktop\LogicaCSharp\ClasseMath\obj\Debug\net6.0\ClasseMath.pdb
+C:\Users\cristhian\Desktop\LogicaCSharp\ClasseMath\obj\Debug\net6.0\ClasseMath.genruntimeconfig.cache
+C:\Users\cristhian\Desktop\LogicaCSharp\ClasseMath\obj\Debug\net6.0\ref\ClasseMath.dll

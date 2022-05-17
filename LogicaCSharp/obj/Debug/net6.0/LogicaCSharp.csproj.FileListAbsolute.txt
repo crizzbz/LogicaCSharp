@@ -1,0 +1,15 @@
+C:\Users\cristhian\Desktop\LogicaCSharp\LogicaCSharp\bin\Debug\net6.0\LogicaCSharp.exe
+C:\Users\cristhian\Desktop\LogicaCSharp\LogicaCSharp\bin\Debug\net6.0\LogicaCSharp.deps.json
+C:\Users\cristhian\Desktop\LogicaCSharp\LogicaCSharp\bin\Debug\net6.0\LogicaCSharp.runtimeconfig.json
+C:\Users\cristhian\Desktop\LogicaCSharp\LogicaCSharp\bin\Debug\net6.0\LogicaCSharp.dll
+C:\Users\cristhian\Desktop\LogicaCSharp\LogicaCSharp\bin\Debug\net6.0\LogicaCSharp.pdb
+C:\Users\cristhian\Desktop\LogicaCSharp\LogicaCSharp\obj\Debug\net6.0\LogicaCSharp.csproj.AssemblyReference.cache
+C:\Users\cristhian\Desktop\LogicaCSharp\LogicaCSharp\obj\Debug\net6.0\LogicaCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cristhian\Desktop\LogicaCSharp\LogicaCSharp\obj\Debug\net6.0\LogicaCSharp.AssemblyInfoInputs.cache
+C:\Users\cristhian\Desktop\LogicaCSharp\LogicaCSharp\obj\Debug\net6.0\LogicaCSharp.AssemblyInfo.cs
+C:\Users\cristhian\Desktop\LogicaCSharp\LogicaCSharp\obj\Debug\net6.0\LogicaCSharp.csproj.CoreCompileInputs.cache
+C:\Users\cristhian\Desktop\LogicaCSharp\LogicaCSharp\obj\Debug\net6.0\LogicaCSharp.dll
+C:\Users\cristhian\Desktop\LogicaCSharp\LogicaCSharp\obj\Debug\net6.0\refint\LogicaCSharp.dll
+C:\Users\cristhian\Desktop\LogicaCSharp\LogicaCSharp\obj\Debug\net6.0\LogicaCSharp.pdb
+C:\Users\cristhian\Desktop\LogicaCSharp\LogicaCSharp\obj\Debug\net6.0\LogicaCSharp.genruntimeconfig.cache
+C:\Users\cristhian\Desktop\LogicaCSharp\LogicaCSharp\obj\Debug\net6.0\ref\LogicaCSharp.dll
